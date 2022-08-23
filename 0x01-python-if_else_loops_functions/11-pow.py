@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 def pow(a, b):
-    powerUp= a**b
-    return powerUp
+    p= a**b
+    return p
